@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Download the latest or specified Paper JAR file
 # Author: ChunkyFoil
-# Email:  
+# Email:  66320194+ChunkyFoil@users.noreply.github.com
 
 import requests
 import json
